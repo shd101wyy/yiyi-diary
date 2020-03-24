@@ -1,8 +1,9 @@
 ---
 note:
     createdAt: 2020-03-22T07:46:40.065Z
-    modifiedAt: 2020-03-22T08:27:30.096Z
-    tags: [README]
+    modifiedAt: 2020-03-23T11:51:39.053Z
+    tags: []
+    pinned: true
 ---
 # yiyi-diary
 
