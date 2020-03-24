@@ -1,7 +1,7 @@
 ---
 note:
     createdAt: 2020-03-24T03:21:56.304Z
-    modifiedAt: 2020-03-24T03:58:26.251Z
+    modifiedAt: 2020-03-24T13:09:11.734Z
     tags: []
     id: ""
 ---
@@ -9,9 +9,15 @@ note:
 
 **今日任务**
 
-* [ ] 完成基本的 router 设置
-* [ ] 添加 Settings 部分，允许用户设置语言以及光标颜色
-* [ ] 支持用户登录
+* [x] 完成基本的 router 设置
+* [x] 添加 Settings 部分，允许用户设置语言以及光标颜色
+* [ ] 支持用户登录 => 意识模糊了明天再搞
 
 `@timer "date":"Tue Mar 24 2020 11:58:01 GMT+0800 (China Standard Time)"`
 感觉 router 的设定需要花些时间
+
+`@timer "date":"Tue Mar 24 2020 17:54:57 GMT+0800 (China Standard Time)","duration":"about 6 hours"`
+添加了设置页以及 editor cursor color 的设置支持
+
+`@timer "date":"Tue Mar 24 2020 21:08:53 GMT+0800 (China Standard Time)","duration":"about 3 hours"`
+意识模糊了，开始看剧了
