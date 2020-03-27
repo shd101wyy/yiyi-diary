@@ -1,0 +1,20 @@
+---
+note:
+    id: ""
+    tags: [地点/中国/北京, 日记/2020/3]
+    modifiedAt: 2020-03-27T08:39:40.109Z
+    createdAt: 2020-03-27T08:33:51.321Z
+---
+# 2020/3/27 于北京
+
+**今日任务**
+
+* [x] 修复 VickyMD Widget Attributes Parse 时候的问题。
+* [x] 添加 emoji 的自动补全 :full_moon_with_face: 算是完成了吧。 
+* [ ] 思考下评论插件的后端设计以及实现。
+
+
+中午吃的饺子，没有拍照片。  
+发现好像如果 notesPanel 里面的 notes 数量很多的话，创建新的 note 速度会很慢，这个未来得修复一下。  
+
+
