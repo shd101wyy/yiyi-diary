@@ -1,0 +1,16 @@
+---
+note:
+    id: ""
+    tags: []
+    modifiedAt: 2020-04-06T04:07:35.352Z
+    createdAt: 2020-04-06T04:06:14.464Z
+---
+# 2020/4/6 于北京
+
+**今日任务**
+
+* [ ] 思考一下编辑器的 Widget 语法？
+* [ ] 修复一下 Youtube 以及 Bilibili 等使用 iframe 的 Widget 在编辑器中的渲染问题。
+
+`@timer "date":"Mon Apr 06 2020 12:07:15 GMT+0800 (China Standard Time)"`
+还是不太确定到底应不应该使用新的 Widget 语法。。。
