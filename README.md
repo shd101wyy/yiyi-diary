@@ -1,16 +1,16 @@
 ---
 note:
   createdAt: 2020-03-22T07:46:40.065Z
-  modifiedAt: 2020-04-01T08:50:24.342Z
-  tags: []
+  modifiedAt: 2020-04-12T05:58:50.203Z
   pinned: true
+  tags: []
 ---
 
 # Yiyi diary
 
 <!-- @crossnote.comment "id":"b77d0e66-fc28-47b9-8888-10624a6ebce1" -->
 
-Yiyi's startup diary / Yiyi 的创业日记
+Yiyi's startup diary / Yiyi 的创业日记 haha
 
 Open this notebook in [📕Crossnote](https://crossnote.app/?repo=https%3A%2F%2Fgithub.com%2Fshd101wyy%2Fyiyi-diary.git&branch=master&filePath=README.md)。  
 在[📕 交叉笔记](https://crossnote.app/?repo=https%3A%2F%2Fgithub.com%2Fshd101wyy%2Fyiyi-diary.git&branch=master&filePath=README.md)中打开这个笔记本。
