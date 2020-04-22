@@ -1,9 +1,9 @@
 ---
 note:
-  createdAt: 2020-03-22T07:46:40.065Z
-  modifiedAt: 2020-04-12T05:58:50.203Z
-  pinned: true
-  tags: []
+    createdAt: 2020-03-22T07:46:40.065Z
+    modifiedAt: 2020-04-21T13:26:36.664Z
+    pinned: true
+    tags: []
 ---
 
 # Yiyi diary
@@ -24,3 +24,4 @@ If made by one man / 一个人的话
 - [ ] Release crossnote beta / 发布交叉笔记 beta 版本
 - [ ] Get 1000+ registered users / 拥有 1000+ 的注册用户
 - [ ] Earn \$2000 USD from crossnote project / 通过交叉笔记项目赚到 12000 元人民币
+
