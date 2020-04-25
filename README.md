@@ -1,15 +1,18 @@
 ---
+notebook:
+    owner: shd101wyy
+    name: 'Yiyi 的创业日记'
 note:
     createdAt: 2020-03-22T07:46:40.065Z
-    modifiedAt: 2020-04-21T13:26:36.664Z
-    pinned: true
+    modifiedAt: 2020-04-25T14:25:25.874Z
     tags: []
+    pinned: true
 ---
 
-# Yiyi diary
+# Yiyi 的创业日记
+#chinese #中文 
 
 <!-- @crossnote.comment "id":"b77d0e66-fc28-47b9-8888-10624a6ebce1" -->
-
 Yiyi's startup diary / Yiyi 的创业日记 haha
 
 Open this notebook in [📕Crossnote](https://crossnote.app/?repo=https%3A%2F%2Fgithub.com%2Fshd101wyy%2Fyiyi-diary.git&branch=master&filePath=README.md)。  
