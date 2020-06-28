@@ -2,11 +2,10 @@
 notebook:
     owner: shd101wyy
     name: 'Yiyi diary'
-note:
-    createdAt: 2020-03-22T07:46:40.065Z
-    modifiedAt: 2020-05-17T03:18:56.750Z
-    tags: []
-    pinned: true
+tags: []
+pinned: true
+created: 2020-03-22T07:46:40.065Z
+modified: 2020-05-17T03:18:56.750Z
 ---
 
 # Yiyi 的创业日记
