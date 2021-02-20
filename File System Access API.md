@@ -1,6 +1,6 @@
 ---
 created: 2021-02-14T07:07:20.835Z
-modified: 2021-02-14T07:58:37.902Z
+modified: 2021-02-18T14:05:10.403Z
 ---
 #crossnote
 
@@ -13,7 +13,7 @@ modified: 2021-02-14T07:58:37.902Z
 
 相关的库:
     
-    * [browser-fs-access](https://github.com/GoogleChromeLabs/browser-fs-access)
-    * [native-file-system-adapter](https://github.com/jimmywarting/native-file-system-adapter/)
+   * [browser-fs-access](https://github.com/GoogleChromeLabs/browser-fs-access)
+   * [native-file-system-adapter](https://github.com/jimmywarting/native-file-system-adapter/)
     
     
